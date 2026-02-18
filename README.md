@@ -1,4 +1,5 @@
-"u2287019_IB2D40 is a python script I created for my Warwick Business School module: Programming for Business Application's individual assignment.
+'''
+u2287019_IB2D40 is a python script I created for my Warwick Business School module: Programming for Business Application's individual assignment.
 
 Below is the Assignment instructions for context:
 
@@ -16,3 +17,4 @@ Dataset Description: The dataset contains the following columns:
   • Month: The month of the year when air quality data was recorded.
   • Hour of Measurement (GMT): The hour of the month when air quality readings were taken.
   • Pollutant Type: The type of air pollutant measured (e.g., Nitric Oxide, PM10, PM2.5 etc.) measured in Pollutant Level (µg/m³) i.e. the concentration of the pollutant recorded in the air.
+  '''
